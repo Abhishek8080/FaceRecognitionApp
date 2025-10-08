@@ -1,0 +1,1 @@
+This project implements a face recognition system in Python using OpenCV and Haar Cascade classifiers. It includes scripts for training a model, resizing images, converting videos to training data, and testing real-time face detection from a webcam or video. The tech stack includes Python, OpenCV, NumPy, and Haar Cascade classifiers for detection and LBPH for recognition.”
